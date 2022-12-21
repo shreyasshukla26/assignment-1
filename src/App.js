@@ -78,7 +78,7 @@ const App = () => {
 
   return (
     <div>
-      hello lawde
+      
       <h3>Analytics</h3>
       <label htmlFor="from">From Date:</label>
       <input
